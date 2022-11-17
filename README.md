@@ -1,6 +1,6 @@
 ## Madlibs React App
 
-![Final App] (/madlibs.gif)
+![Final App](/madlibs.gif)
 
 ## Project Details
 
