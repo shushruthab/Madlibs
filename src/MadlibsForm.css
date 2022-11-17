@@ -1,0 +1,26 @@
+.container {
+    text-align: center;
+}
+
+label {
+    text-align: right;
+    display: inline-block;
+    width: 75px;
+}
+input {
+    margin: 10px;
+}
+
+button {
+    margin: 10px;
+    color: white;
+    background-color: blue;
+    width: 125px;
+    height: 40px;
+    border: none;
+}
+
+button:hover {
+    color: black;
+    background-color: aqua;
+}
